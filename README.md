@@ -4,7 +4,10 @@
    
 </div>
 <div align="center">
-   <h1>Formation</h1>
-   <li>Networks and microcomputer systems vocational training</li>
-   <li>Web application development</li>
+   <div align="left"> 
+      <h1>Formation</h1>
+      <li>Networks and microcomputer systems vocational training</li>
+      <li>Web application development</li>
+   </div>
+   
 </div>
