@@ -12,14 +12,19 @@
    <br>
    <div align="left"> 
       <h1>Web Application Development Challenges</h1>
-      <div align="center">
-         ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=github-readme-stats)](https://github.com/SrGobi/github-readme-stats)
-         ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OceansForce&repo=Erronka_5_Taldea&cache_seconds=86400&theme=gruvbox)
-         ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OceansForce&repo=Erronka_BAST&cache_seconds=86400&theme=merko)
-         ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maranzadieg23wg&repo=tetris&cache_seconds=86400&theme=algolia)
+      <div>
+            <!-- Repositorios -->
+         <a href="https://github.com/OceansForce/Erronka_5_Taldea">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=OceansForce&repo=Erronka_5_Taldea&cache_seconds=86400&theme=gruvbox" alt="Erronka_5_Taldea">
+         </a>
+         <a href="https://github.com/OceansForce/Erronka_BAST">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=OceansForce&repo=Erronka_BAST&cache_seconds=86400&theme=merko" alt="Erronka_BAST">
+         </a>
+         <a href="https://github.com/maranzadieg23wg/tetris">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=maranzadieg23wg&repo=tetris&cache_seconds=86400&theme=algolia" alt="Tetris">
+         </a>
       </div>
       
-      <li>Web application development</li>
    </div>
    
 </div>
